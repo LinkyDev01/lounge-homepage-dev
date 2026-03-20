@@ -1,0 +1,20 @@
+.section {
+  background-color: #edddd0;
+  padding: 40px 24px;
+  word-break: keep-all;
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  border-left: 3px solid #d2691e;
+  padding-left: 20px;
+}
+
+.paragraph {
+  font-size: 15px;
+  line-height: 1.85;
+  color: #4a3020;
+  margin: 0;
+}
