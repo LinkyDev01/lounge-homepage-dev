@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { trackCustom } from "@/lib/meta-pixel"
-import styles from "./page.module.css"
+import styles from "../../page.module.css"
 
 export function ApplyButton() {
   return (

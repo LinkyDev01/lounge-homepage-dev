@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node_modules/.bin/next build)",
+      "Bash(export PATH=\"$HOME/.nvm/versions/node/v24.11.1/bin:$PATH\")",
+      "Bash(node --version)",
+      "Bash(node node_modules/.bin/next build)",
+      "Bash(~/.volta/tools/image/node/*/bin/node)",
+      "Bash(FILE=\"/Users/jk/develop/C-linky/linky-lounge-homepage-dev/app/\\(main\\)/book-club/BookSection.module.css\")",
+      "Bash(perl -i -pe 's/font-size: 24px;/font-size: 26px;/g;:*)",
+      "Bash(FILE=\"/Users/jk/develop/C-linky/linky-lounge-homepage-dev/app/\\(main\\)/book-club/ScheduleSection.module.css\")",
+      "Bash(__NEW_LINE_02dd15e45ff22a84__ FILE=\"/Users/jk/develop/C-linky/linky-lounge-homepage-dev/app/\\(main\\)/book-club/ClosingSection.module.css\")",
+      "Bash(perl -i -pe 's/font-size: 28px;/font-size: 30px;/g;:*)",
+      "Bash(npm install lottie-react)",
+      "Bash(bun add lottie-react)",
+      "Bash(/bin/zsh -i -c \"which bun && bun add lottie-react\")",
+      "Bash(/bin/zsh -l -c \"which npm; which bun; which pnpm; which yarn\")",
+      "Bash(/bin/zsh -l -c \"echo $PATH && ls /usr/local/bin | grep -E ''node|npm|bun|yarn|pnpm''\")",
+      "Bash(/Users/jk/.nvm/versions/node/v24.11.1/bin/npm install lottie-react)",
+      "Bash(/Users/jk/.nvm/versions/node/v24.11.1/bin/node /Users/jk/.nvm/versions/node/v24.11.1/bin/npm install lottie-react)"
+    ]
+  }
+}

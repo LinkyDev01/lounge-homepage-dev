@@ -1,4 +1,4 @@
-import { currentSeasonConfig } from "./book-config"
+import { currentSeasonConfig } from "../../book-config"
 import styles from "./ScheduleSection.module.css"
 
 export function ScheduleSection() {

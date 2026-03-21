@@ -20,7 +20,7 @@
 }
 
 .sub {
-  font-size: 14px;
+  font-size: 15px;
   color: #7a6a60;
   margin: 0 0 14px;
   letter-spacing: 0.02em;
@@ -28,7 +28,7 @@
 }
 
 .title {
-  font-size: 28px;
+  font-size: 30px;
   font-weight: 700;
   color: #f0ebe5;
   margin: 0 0 40px;
@@ -44,7 +44,7 @@
   padding: 16px 40px;
   background-color: #d2691e;
   color: #fff;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 700;
   border-radius: 100px;
   text-decoration: none;

@@ -4,10 +4,58 @@
     padding: 0;
 }
 
-.mainImage {
+.hero {
+    position: relative;
+}
+
+.heroImage {
     width: 100%;
     height: auto;
     display: block;
+    max-height: 460px;
+    object-fit: cover;
+}
+
+.heroOverlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 32px 24px;
+    text-align: center;
+    background: linear-gradient(to top, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.1) 60%, transparent 100%);
+}
+
+.heroSub {
+    font-size: 12px;
+    font-weight: 600;
+    color: rgba(255,255,255,0.8);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+}
+
+.heroTitle {
+    font-family: var(--font-cormorant);
+    font-size: 60px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    line-height: 1.1;
+    margin: 0 0 16px;
+}
+
+.heroBadge {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    color: #ffffff;
+    border: 1.5px solid rgba(255,255,255,0.7);
+    border-radius: 20px;
+    padding: 4px 14px;
+    margin: 0;
 }
 
 .fixedButtonContainer {

@@ -11,7 +11,7 @@ export default function LoungePage() {
     <main className="min-h-screen">
       <SpaceIntroSection />
       <ProgramsSection />
-      <MeetupCalendarSection />
+      {/* <MeetupCalendarSection /> */}
       <GallerySection />
     </main>
   )

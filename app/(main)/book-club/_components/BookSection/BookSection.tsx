@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { currentSeasonConfig } from "./book-config"
+import { currentSeasonConfig } from "../../book-config"
 import styles from "./BookSection.module.css"
 
 export function BookSection() {

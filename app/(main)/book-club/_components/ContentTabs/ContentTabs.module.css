@@ -1,0 +1,66 @@
+.container {
+  background-color: #f5ece4;
+}
+
+.stickyHeader {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background-color: #f5ede4;
+}
+
+.header {
+  padding: 14px 20px 10px;
+  background-color: #d2691e;
+}
+
+.headerTitle {
+  font-size: 15px;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.03em;
+}
+
+.tabList {
+  display: flex;
+  border-bottom: 1px solid #d4bfaa;
+  padding: 0 12px;
+  background-color: #f5ede4;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.tabList::-webkit-scrollbar {
+  display: none;
+}
+
+.tab {
+  padding: 14px 16px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #7a5838;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  margin-bottom: -1px;
+  white-space: nowrap;
+}
+
+.tab:hover {
+  color: #1a1208;
+}
+
+.tab.active {
+  color: #d2691e;
+  font-weight: 700;
+  border-bottom-color: #d2691e;
+}
+
+@media (max-width: 767px) {
+  .tab {
+    padding: 12px 14px;
+    font-size: 14px;
+  }
+}

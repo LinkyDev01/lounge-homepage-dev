@@ -5,8 +5,7 @@ import styles from "./TopNavBar.module.css"
 
 const NAV_ITEMS = [
   { label: "소개", href: "#about" },
-  { label: "진행방식", href: "#howto" },
-  { label: "책", href: "#books" },
+  { label: "진행방식·책", href: "#howto" },
   { label: "일정", href: "#schedule" },
   { label: "FAQ", href: "#faq" },
 ]

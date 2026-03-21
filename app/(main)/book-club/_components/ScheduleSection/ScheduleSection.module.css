@@ -1,11 +1,11 @@
 .section {
-  background-color: #ede0d0;
-  padding: 48px 24px;
+  background-color: #f5ece4;
+  padding: 0px 24px 48px;
   word-break: keep-all;
 }
 
 .sectionTitle {
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 700;
   color: #1a1208;
   margin: 0 0 28px;
@@ -26,7 +26,7 @@
 }
 
 .name {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 700;
   color: #1a1208;
   margin: 0 0 8px;
@@ -40,14 +40,14 @@
 }
 
 .dates {
-  font-size: 14px;
+  font-size: 15px;
   color: #4a3020;
   margin: 0;
   letter-spacing: 0.02em;
 }
 
 .note {
-  font-size: 13px;
+  font-size: 14px;
   color: #6a5038;
   margin: 0;
   line-height: 1.6;

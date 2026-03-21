@@ -6,7 +6,7 @@
 
 /* 섹션 제목 */
 .sectionTitle {
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 700;
   color: #f0ebe5;
   margin: 0 0 32px;
@@ -18,14 +18,14 @@
 }
 
 .introTitle {
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 700;
   color: #f0ebe5;
   margin: 0 0 16px;
 }
 
 .introParagraph {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.85;
   color: #c8bdb4;
   margin-bottom: 14px;
@@ -83,21 +83,21 @@
 }
 
 .title {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 700;
   color: #f0ebe5;
   margin: 0 0 6px;
 }
 
 .author {
-  font-size: 14px;
+  font-size: 15px;
   color: #7a6a60;
   margin: 0;
 }
 
 /* 태그라인 */
 .tagline {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 600;
   line-height: 1.6;
   color: #e0d4c8;
@@ -113,7 +113,7 @@
   margin: 0 0 10px;
   padding: 0 0 0 16px;
   border-left: 3px solid #D2691E;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.75;
   color: #c8bdb4;
   font-style: italic;
@@ -129,7 +129,7 @@
 }
 
 .description p {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.85;
   color: #c8bdb4;
   margin-bottom: 10px;
@@ -149,7 +149,7 @@
 
 .curatorNoteLabel {
   display: block;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   letter-spacing: 0.06em;
   color: #D2691E;
@@ -157,7 +157,7 @@
 }
 
 .curatorNote {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.75;
   color: #a08878;
   margin: 0;
@@ -165,7 +165,7 @@
 
 /* 이탤릭 노트 */
 .note {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.7;
   color: #d2691e;
   font-style: italic;
@@ -200,27 +200,27 @@
 }
 
 .scheduleName {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 600;
   color: #f0ebe5;
   margin: 0 0 6px;
 }
 
 .scheduleTime {
-  font-size: 13px;
+  font-size: 14px;
   color: #D2691E;
   font-weight: 500;
   margin: 0 0 4px;
 }
 
 .scheduleDates {
-  font-size: 13px;
+  font-size: 14px;
   color: #8a7a6e;
   margin: 0;
 }
 
 .scheduleNote {
-  font-size: 13px;
+  font-size: 14px;
   color: #5a4e47;
   margin: 0;
   line-height: 1.6;

@@ -1,8 +1,8 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { ApplyButton } from "./apply-button"
-import styles from "./page.module.css"
+import { ApplyButton } from "../apply-button/apply-button"
+import styles from "../../page.module.css"
 
 export function StickyApplyButton() {
   const [visible, setVisible] = useState(true)

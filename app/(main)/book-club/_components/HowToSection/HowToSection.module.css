@@ -5,14 +5,14 @@
 }
 
 .sectionTitle {
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 700;
   color: #1a1208;
   margin: 0 0 16px;
 }
 
 .intro {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.85;
   color: #4a3020;
   margin: 0 0 40px;
@@ -59,13 +59,13 @@
 }
 
 .stepLabel {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 700;
   color: #1a1208;
 }
 
 .stepDuration {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 500;
   color: #D2691E;
   background-color: rgba(210, 105, 30, 0.12);
@@ -74,7 +74,7 @@
 }
 
 .stepDesc {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.8;
   color: #4a3020;
   margin: 0;
@@ -95,7 +95,7 @@
 }
 
 .gatheringDesc {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.8;
   color: #4a3020;
   margin: 0;

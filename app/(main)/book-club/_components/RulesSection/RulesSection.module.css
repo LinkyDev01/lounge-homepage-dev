@@ -5,14 +5,14 @@
 }
 
 .sectionTitle {
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 700;
   color: #1a1208;
   margin: 0 0 16px;
 }
 
 .intro {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.85;
   color: #4a3020;
   margin: 0 0 32px;
@@ -48,7 +48,7 @@
 }
 
 .text {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 600;
   color: #1a1208;
   line-height: 1.6;

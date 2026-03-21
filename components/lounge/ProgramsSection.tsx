@@ -8,6 +8,14 @@ import { SectionHeader } from "@/components/common"
 
 const PROGRAMS = [
   {
+    id: 5,
+    title: "레이지데이 북클럽",
+    image: "/linky-lounge/book-club.png",
+    schedule: "격주 3시간 진행",
+    description: "책과 함께 시작하는 만남",
+    link: "/book-club",
+  },
+  {
     id: 1,
     title: "회화 스터디",
     image: "/linky-lounge/foreign_class.png",
@@ -38,14 +46,6 @@ const PROGRAMS = [
     schedule: "매주 금 저녁 진행",
     description: "짭짤한 감튀와 함께 찾는 달콤한 인연",
     link: "https://tally.so/r/lbrdkN",
-  },
-  {
-    id: 5,
-    title: "레이지데이 북클럽",
-    image: "/linky-lounge/book-club.png",
-    schedule: "격주 3시간 진행",
-    description: "책과 함께 시작하는 만남",
-    link: "/book-club",
   },
 ]
 

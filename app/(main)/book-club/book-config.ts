@@ -59,7 +59,6 @@ export const currentSeasonConfig: SeasonConfig = {
       author: "토니 페르난도",
       tagline: "내 삶의 해상도를 높여주는 실질적인 렌즈를 장착합니다.",
       quotes: [
-        "그럴 수도 있고, 아닐 수도 있다.",
         "마음은 언제든 바뀔 수 있고, 언젠가는 바뀌기 마련이라는 사실을 기억해야 한다.",
       ],
       paragraphs: [
